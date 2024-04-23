@@ -1,0 +1,22 @@
+{
+    "chain_name": "medasdigital",
+    "registry_name": "medasdigital",
+    "api": [
+        {"provider": "medasdigital", "address": "https://lcd.medas-digital.io:1317"},
+    ],
+    "rpc": [
+        {"provider": "medasdigital", "address": "https://rpc.medas-digital.io:26657"},
+    ],
+    "sdk_version": "0.50.3",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "medas",
+    "logo": "/logos/medas.svg",
+    "assets": [{
+        "base": "umedas",
+        "symbol": "MEDAS",
+        "exponent": "9",
+        "coingecko_id": "medasdigital", 
+        "logo": "/logos/medas.svg"
+    }]
+}
