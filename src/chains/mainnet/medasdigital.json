@@ -11,12 +11,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "medas",
-    "logo": "https://raw.githubusercontent.com/oxygene76/chain-registry/refs/heads/master/medasdigital/images/medas.svg",
+    "logo": "/logos/medas.svg",
     "assets": [{
         "base": "umedas",
         "symbol": "MEDAS",
         "exponent": "6",
         "coingecko_id": "medasdigital", 
-        "logo": "https://raw.githubusercontent.com/oxygene76/chain-registry/refs/heads/master/medasdigital/images/medas.svg"
+        "logo": "/logos/medas.svg"
     }]
 }
